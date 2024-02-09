@@ -47,11 +47,11 @@ This page have used 2 fonts for text (both from 1001fonts):
 
 Taken from the internet to match the color palette. The specific credits of the taken ones are here: <br>
 <b>Nav Bar at the right:</b> Slime by dog_lover on dinopixel<br>
-<b>Hero Section GIF::</b> Forever by minimoss on DeviantArt<br>
-<b>Introduction image::</b> Cactus by pixelartmaker.com on Pinterest<br>
-<b>First evolution image::</b> Tree by @RoyalePoe on X (Twitter)<br>
-<b>Body pattern::</b> From es.patter.monster<br>
-The other images are totally generated with AI (DALL-E 3)
+<b>Hero Section GIF:</b> Forever by minimoss on DeviantArt<br>
+<b>Introduction image:</b> Cactus by pixelartmaker.com on Pinterest<br>
+<b>First evolution image:</b> Tree by @RoyalePoe on X (Twitter)<br>
+<b>Body pattern:</b> From es.patter.monster<br>
+The other images are totally generated with AI <b>(DALL-E 3)</b>
 
 <!-- ### Videos 🎞️
 
@@ -63,7 +63,7 @@ Here is the only Code Snippet used from uiverse.io:<br>
 <p><b>Hero button: </b>Made by VashonG from uiverse.io</p>
 
 Now, mention the Code Snippets used from Bootstrap:
-<p>Navigation Bar (with custom things)</p>
+<p>Navigation Bar (with custom components)</p>
 <p>Cards from Gallery</p>
 <p>Accordion from Curiosities</p>
 <p>Modal from Terms and Conditions on Contact</p>
