@@ -59,13 +59,13 @@ Two beautiful Pixel Art videos from Youtube -->
 
 ### Code Snippets 👨‍💻
 
-Here is the only Code Snippet used from uiverse.io:<br>
+Here is the only Code Snippet used from <b>uiverse.io</b>:<br>
 <p><b>Hero button: </b>Made by VashonG from uiverse.io</p>
-
-Now, mention the Code Snippets used from Bootstrap:
-<p>Navigation Bar (with custom components)</p>
-<p>Cards from Gallery</p>
-<p>Accordion from Curiosities</p>
-<p>Modal from Terms and Conditions on Contact</p>
+<br>
+Now, mention the Code Snippets used from <b>Bootstrap</b>:
+<p><b>Navigation Bar (with custom components)</b></p>
+<p><b>Cards from Gallery</b></p>
+<p><b>Accordion from Curiosities</b></p>
+<p><b>Modal from Terms and Conditions on Contact</b></p>
 
 *This website only has educational and practising purposes and does not seek to profit from it.<br>Developed by David Solera Romero for the subject Lenguaje de Marcas in 1º DAM<br>All rights reserved for the respective authors of the images and animations<br>If I have not mentioned an author, please contact me via Social Network*
