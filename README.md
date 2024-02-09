@@ -1,6 +1,6 @@
-# 🖌 Exploring the Pixel Art's Website 🖌
+# 🧶 Exploring the Pixel Art's Website 🧶
 
-## Motivation for Creating this Web ✨
+## Motivation for Creating this Web 🌿
 
 I have decided to make this website about Pixel Art because recently I have seen some videos about it and I thought: Why not? Obviously I chose a green color palette but I could have chosen a very different one. Just wanted to use one color
 
@@ -15,9 +15,9 @@ Pixel art effortlessly transports enthusiasts back to the nostalgic era of 8 and
 ### Structure - Featured Content - The website is made up of these sections 📋
 
 - ➰ **An animated Hero Section**
-- 🗳 **Introduction** Learn about how Pixel Art arrived to our lives and what is it like<br>
+- 🥗 **Introduction** Learn about how Pixel Art arrived to our lives and what is it like<br>
    <img src="img/introphoto.png" alt="Intro" width="370px" height="190px">
-- 🚂 **Pixel Art History:** Explore ingenious artists creations that have driven this retro-style world of drawing.<br>
+- 🌿 **Pixel Art History:** Explore ingenious artists creations that have driven this retro-style world of drawing.<br>
    <img src="img/historyphoto.png" alt="History" width="370px" height="190px">
 - 🧭 **Evolution:** Discover how this style has evolved along the years and how it is still working till our days<br>
    <img src="img/evolutionphoto.png" alt="Evolution" width="370px" height="190px">
