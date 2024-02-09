@@ -4,7 +4,7 @@
 
 I have decided to make this website about Pixel Art because recently I have seen some videos about it and I thought: Why not? Obviously I chose a green color palette but I could have chosen a very different one. Just wanted to use one color
 
-<img src="https://th.bing.com/th/id/OIG.NG5XeAGNaOwU398_Y5vE?pid=ImgGn" alt="Steampunk" width="580" height="530">
+<img src="https://th.bing.com/th/id/OIG2.VevgsyPEV9jUnObbYCwp?pid=ImgGn" alt="Steampunk" width="580" height="530">
 
 ## Welcome to the Pixel Art World! 🌍
 
