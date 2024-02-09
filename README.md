@@ -46,7 +46,7 @@ This page have used 2 fonts for text (both from 1001fonts):
 ### Images 📷
 
 Taken from the internet to match the color palette. The specific credits of the taken ones are here: <br>
-<b>Nav Bar at the right:</b> Slime by dog_lover on dinopixel<br>
+<b>Nav Bar creature at the right:</b> Slime by dog_lover on dinopixel<br>
 <b>Hero Section GIF:</b> Forever by minimoss on DeviantArt<br>
 <b>Introduction image:</b> Cactus by pixelartmaker.com on Pinterest<br>
 <b>First evolution image:</b> Tree by @RoyalePoe on X (Twitter)<br>
