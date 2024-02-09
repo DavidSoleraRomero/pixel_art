@@ -46,11 +46,11 @@ This page have used 2 fonts for text (both from 1001fonts):
 ### Images 📷
 
 Taken from the internet to match the color palette. The specific credits of the taken ones are here: <br>
-Nav Bar at the right: Slime by dog_lover on dinopixel<br>
-Hero Section GIF: Forever by minimoss on DeviantArt<br>
-Introduction image: Cactus by pixelartmaker.com on Pinterest<br>
-First evolution image: Tree by @RoyalePoe on X (Twitter)<br>
-Body pattern: From es.patter.monster<br>
+<b>Nav Bar at the right:</b> Slime by dog_lover on dinopixel<br>
+<b>Hero Section GIF::</b> Forever by minimoss on DeviantArt<br>
+<b>Introduction image::</b> Cactus by pixelartmaker.com on Pinterest<br>
+<b>First evolution image::</b> Tree by @RoyalePoe on X (Twitter)<br>
+<b>Body pattern::</b> From es.patter.monster<br>
 The other images are totally generated with AI (DALL-E 3)
 
 <!-- ### Videos 🎞️
