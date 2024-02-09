@@ -66,6 +66,6 @@ Now, mention the Code Snippets used from <b>Bootstrap</b>:
 <p><b>Navigation Bar (with custom components)</b></p>
 <p><b>Cards from Gallery</b></p>
 <p><b>Accordion from Curiosities</b></p>
-<p><b>Modal from Terms and Conditions on Contact</b></p>
+<p><b>Modal from Terms and Conditions on Contact</b></p><br>
 
 *This website only has educational and practising purposes and does not seek to profit from it.<br>Developed by David Solera Romero for the subject Lenguaje de Marcas in 1º DAM<br>All rights reserved for the respective authors of the images and animations<br>If I have not mentioned an author, please contact me via Social Network*
