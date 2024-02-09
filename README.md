@@ -16,15 +16,15 @@ Pixel art effortlessly transports enthusiasts back to the nostalgic era of 8 and
 
 - ➰ **An animated Hero Section**
 - 🗳 **Introduction** Learn about how Pixel Art arrived to our lives and what is it like<br>
-   <img src="img/introphoto.png" alt="Concept" width="300px" height="155px">
+   <img src="img/introphoto.png" alt="Concept" width="350px" height="185px">
 - 🚂 **Pixel Art History:** Explore ingenious artists creations that have driven this retro-style world of drawing.<br>
-   <img src="img/historyphoto.png" alt="Concept" width="300px" height="155px">
+   <img src="img/historyphoto.png" alt="Concept" width="350px" height="185px">
 - 🧭 **Evolution:** Discover how this style has evolved along the years and how it is still working till our days<br>
-   <img src="img/evolutionphoto.png" alt="Concept" width="300px" height="155px">
+   <img src="img/evolutionphoto.png" alt="Concept" width="350px" height="185px">
 - 📸 **Gallery:** Explore this beautiful art with a Gallery made with Bootstrap's Cards. You will love it<br>
-   <img src="img/galleryphoto.png" alt="Concept" width="300px" height="155px">
+   <img src="img/galleryphoto.png" alt="Concept" width="350px" height="185px">
 - 😶‍🌫️ **Curiosities** Where you will find more details about themes that people loves drawing in Pixel Art<br>
-   <img src="img/curiositiesphoto.png" alt="Concept" width="300px" height="155px">
+   <img src="img/curiositiesphoto.png" alt="Concept" width="350px" height="185px">
 - 📫 **Contact** Here, you can find us in our custom Contact section. Hoping to see you sending an email!<br>
 - 🦶 **Footer:** With the favicon, my name and more things<br>
 
