@@ -62,7 +62,7 @@ Two beautiful Pixel Art videos from Youtube -->
 Here is the only Code Snippet used from <b>uiverse.io</b>:<br>
 <p><b>Hero button: </b>Made by VashonG from uiverse.io</p>
 <br>
-Now, mention the Code Snippets used from <b>Bootstrap</b>:<br>
+Now, mention the Code Snippets used from <b>Bootstrap</b>:<br><br>
 <p><b>Navigation Bar (with custom components)</b></p>
 <p><b>Cards from Gallery</b></p>
 <p><b>Accordion from Curiosities</b></p>
