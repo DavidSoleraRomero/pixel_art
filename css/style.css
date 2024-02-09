@@ -86,21 +86,28 @@ body {background-image: url("../img/patron.png");}
 /* Zona personalizada de Bootstrap */
 .cursor-pointer {cursor: pointer;}
 .resize-none {resize: none;}
+
 /* Hover */
 .greenbutton:hover {color: rgb(203, 255, 211); transition: 1.3s; box-shadow:0 0 8px .3rem rgba(36, 197, 22, 0.45)}
+
 /* Alturas position absolute */
 .top-12 {top:12%;}
+
 /* Color texto al hacer hover */
 .hover:hover {color: #03b364 !important; transition: 1s;}
 .hoverdos:hover {color: #03b364 !important; transition: 1s; border-bottom: 1px #03b364 solid;}
+
 /* Border */
 .bct-green {border-top: #0CC05D 3.5px solid;}
+
 /* Width */
 .w-perso {width: 67.5%;}
 .w-87 {width: 87%;}
+
 /* Height */
 .vh-94-1 {height: 94.1vh;}
 .h-85p {height: 85px !important;}
+
 /* Colores */
 .text-lightgreen {color: rgb(203, 255, 211) !important}
 .text-gradient {
@@ -117,9 +124,11 @@ body {background-image: url("../img/patron.png");}
 .bg-darkgreen {background-color: #3e9920 !important;}
 .bg-black {background-color: #131919 !important;}
 .border-lightgreen {border-color: rgb(203, 255, 211) !important;}
+
 /* Font-size */
 .fs-6 {font-size: 1.05rem !important;}
 .fs-0 {font-size: 2.75rem;}
+
 /* Estilos ya implementados en Bootstrap, pero con diferente color */
 .form-check-input:focus{border-color:#3deb2d;outline:0;box-shadow:0 0 0 .25rem rgba(36, 197, 22, 0.25)}
 .form-check-input:checked{background-color:#34b523;border-color:#269208}
@@ -129,6 +138,7 @@ body {background-image: url("../img/patron.png");}
 .accordion-item, .accordion-button, .accordion-body, .accordion-collapse {border-color:#103b04 !important;}
 .accordion-button {box-shadow:0 0 0 .1rem rgba(18, 106, 10, 0.25) !important}
 .accordion { --bs-accordion-btn-active-icon: none;}
+
 /* Errores del formulario ocultos */
 .form-novalidado:focus, .form-novalidado:focus, .form-novalidado {
     border-color:rgb(252, 84, 84); 
