@@ -89,6 +89,8 @@ body {background-image: url("../img/patron.png");}
 
 /* Hover */
 .greenbutton:hover {color: rgb(203, 255, 211); transition: 1.3s; box-shadow:0 0 8px .3rem rgba(36, 197, 22, 0.45)}
+.card-hover:hover {box-shadow:0 0 25px 0.35rem rgba(36, 197, 22, 0.60); transition: 1.35s; border-color: #047c14;}
+img:hover:not(.card-img-top) {filter: drop-shadow(0 0 35px rgba(42, 220, 26, 0.5)); transition: 1.35s;}
 
 /* Alturas position absolute */
 .top-12 {top:12%;}
@@ -103,6 +105,7 @@ body {background-image: url("../img/patron.png");}
 /* Width */
 .w-perso {width: 67.5%;}
 .w-87 {width: 87%;}
+#slime {min-width: 70px;}
 
 /* Height */
 .vh-94-1 {height: 94.1vh;}
@@ -112,9 +115,9 @@ body {background-image: url("../img/patron.png");}
 .text-lightgreen {color: rgb(203, 255, 211) !important}
 .text-gradient {
     background: linear-gradient(90deg,#88ff00 10%, #9dc034 50%, #60a303 100%);
-    background-clip: text;
-    color: transparent;
-    -webkit-text-stroke: 1.5px rgb(2, 12, 2);}
+    background-clip: text; -webkit-background-clip: text;
+    color: transparent; -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 2.3px rgb(2, 12, 2);}
 .text-green {color: rgb(131, 245, 131);}
 .bg-green {background: rgb(31,99,60); background: linear-gradient(90deg, rgb(54, 132, 48) 0%, #14532a 100%);}
 .bg-othergreen {background: radial-gradient(circle farthest-side at center center, #519333 0%, #01481f 95%) !important;}
