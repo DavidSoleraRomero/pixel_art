@@ -37,8 +37,14 @@ function validaEmail() {
         document.getElementById("emailHelp").style.visibility="visible";
         return false;
     }
-    document.getElementById("emailHelp").style.visibility="hidden";
-    return true;
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    if (emailRegex.test(id)) {
+        document.getElementById("emailHelp").style.visibility="hidden";
+        return true;
+    } else {
+        document.getElementById("emailHelp").style.visibility="visible";
+        return false;
+    }
 }
 
 function validaApellidos() {
