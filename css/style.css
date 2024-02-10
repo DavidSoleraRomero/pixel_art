@@ -117,7 +117,7 @@ img:hover:not(.card-img-top) {filter: drop-shadow(0 0 35px rgba(42, 220, 26, 0.5
     background: linear-gradient(90deg,#88ff00 10%, #9dc034 50%, #60a303 100%);
     background-clip: text; -webkit-background-clip: text;
     color: transparent; -webkit-text-fill-color: transparent;
-    -webkit-text-stroke: 2.3px rgb(2, 12, 2);}
+    -webkit-text-stroke: 1.35px rgb(2, 12, 2);}
 .text-green {color: rgb(131, 245, 131);}
 .bg-green {background: rgb(31,99,60); background: linear-gradient(90deg, rgb(54, 132, 48) 0%, #14532a 100%);}
 .bg-othergreen {background: radial-gradient(circle farthest-side at center center, #519333 0%, #01481f 95%) !important;}
