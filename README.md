@@ -33,7 +33,7 @@ Thank you for exploring this fascinating retro-painting style, and hope that I c
 
 ## Web page style 🖊️
 
-### Fonts 🪧
+### Fonts ⛲
 
 This page have used 2 fonts for text (both from 1001fonts):
 - Nihonium113
