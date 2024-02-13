@@ -330,41 +330,41 @@
                                         <div class="row">
                                             <div class="col">
                                                 <label for="name" class="form-label">Name</label>
-                                                <input type="text" class="form-control" id="name" name="name" aria-describedby="nameHelp">
+                                                <input type="text" onchange="quitaErrores('name')" class="form-control" id="name" name="name" aria-describedby="nameHelp">
                                                 <div id="nameHelp" class="form-text text-danger">Required name</div>
                                             </div>
                                             <div class="col">
                                                 <label for="surnames" class="form-label">Surnames</label>
-                                                <input type="text" class="form-control" id="surnames" name="surnames" aria-describedby="nameHelp">
+                                                <input type="text" onchange="quitaErrores('surnames')" class="form-control" id="surnames" name="surnames" aria-describedby="nameHelp">
                                                 <div id="surnamesHelp" class="form-text text-danger">Required surname/s</div>
                                             </div>
                                         </div>
                                     </div>       
                                 </div>
                                 <div class="mb-1">
-                                    <label for="exampleInputEmail1" class="form-label">Email address</label>
-                                    <input type="email" name="exampleInputEmail1" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-                                    <div id="emailHelp" class="form-text text-danger">Your email is required</div>
+                                    <label for="email" class="form-label">Email address</label>
+                                    <input type="text" onchange="quitaErrores('email')" name="email" class="form-control" id="email" aria-describedby="emailHelp">
+                                    <div id="emailHelp" class="form-text text-danger">Your email is required with a good format</div>
                                 </div>
                                 <div class="form-floating">
-                                    <textarea class="form-control resize-none h-85p" placeholder="Leave a comment here" id="floatingTextarea" name="floatingTextarea"></textarea>
-                                    <label for="floatingTextarea" class="text-dark">Comments</label>
+                                    <textarea class="form-control resize-none h-85p" onchange="quitaErrores('comments')" placeholder="Leave a comment here" id="comments" name="comments"></textarea>
+                                    <label for="comments" class="text-dark">Comments</label>
                                     <div id="commentsHelp" class="form-text text-danger">Comments are required</div>
                                 </div>
                                 <label for="motivo">Reason that made you write us:</label>
                                 <div id="motivoHelp" class="form-text text-danger">An option is required</div>
-                                <select class="form-select mb-4" id="motivo" name="motivo" aria-label="Default select example">
-                                    <option value="0" selected>Select an option</option>
-                                    <option value="1">Curiosity about Pixel Art</option>
-                                    <option value="2">Trying to contact the owner</option>
-                                    <option value="3">Want to give a tip on web design</option>
-                                    <option value="4">Im claiming my rights of an image</option>
-                                    <option value="5">Other reason</option>
+                                <select class="form-select mb-4" id="motivo" onchange="quitaErrores('motivo')" name="motivo" aria-label="Default select example">
+                                    <option class="bg-lightgreen" value="0" selected>Select an option</option>
+                                    <option class="bg-lightgreen" value="1">Curiosity about Pixel Art</option>
+                                    <option class="bg-lightgreen" value="2">Trying to contact the owner</option>
+                                    <option class="bg-lightgreen" value="3">Want to give a tip on web design</option>
+                                    <option class="bg-lightgreen" value="4">Im claiming my rights of an image</option>
+                                    <option class="bg-lightgreen" value="5">Other reason</option>
                                 </select>
                                 <div class="form-check">
-                                    <input type="checkbox" class="form-check-input" id="exampleCheck1" name="exampleCheck1">
-                                    <label class="form-check-label" for="exampleCheck1"><a class="cursor-pointer text-decoration-none text-lightgreen hoverdos" data-bs-toggle="modal" data-bs-target="#staticBackdrop">Agreed with the terms</a></label>
-                                    <div id="checkHelp" class="form-text text-danger">Agree the terms and conditions</div>
+                                    <input type="checkbox" onchange="quitaErrores('check')" class="form-check-input" id="check" name="check">
+                                    <label class="form-check-label" for="check"><a class="cursor-pointer text-decoration-none text-lightgreen hoverdos" data-bs-toggle="modal" data-bs-target="#staticBackdrop">Agreed with the terms</a></label>
+                                    <div id="checkHelp" class="form-text text-danger pb-2">Agree the terms and conditions</div>
                                 </div>
                                 <button type="submit" class="btn btn-primary bg-othergreen border-lightgreen sombra greenbutton">Send</button>
                             </form>

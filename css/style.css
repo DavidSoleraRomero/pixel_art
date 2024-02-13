@@ -124,6 +124,7 @@ img:hover:not(.card-img-top) {filter: drop-shadow(0 0 35px rgba(42, 220, 26, 0.5
 .bg-accbg {background-color: #04231d !important;}
 .bg-footergreen {background-color: #033629 !important;}
 .bg-mygreen {background-color: #072620 !important;}
+.bg-lightgreen {background-color: #97f5c1;}
 .bg-darkgreen {background-color: #3e9920 !important;}
 .bg-black {background-color: #131919 !important;}
 .border-lightgreen {border-color: rgb(203, 255, 211) !important;}
