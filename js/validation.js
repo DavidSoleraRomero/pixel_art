@@ -44,7 +44,7 @@ function validaEmail() {
         document.getElementById("email").classList.add("form-novalidado");
         return false;
     }
-    const emailRegex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
+    const emailRegex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]{2,7})+$/;
     if (emailRegex.test(id)) {
         document.getElementById("emailHelp").style.visibility="hidden";
         document.getElementById("email").classList.remove("form-novalidado");
